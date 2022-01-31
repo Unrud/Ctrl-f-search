@@ -1,7 +1,8 @@
-# Stopwatch
+# CTRL+F Search
 
-A basic stopwatch with the ability to lap, stop and reset. 
-[Live Demo](https://kamyar-mazloom.github.io/Stopwatch/) :point_left:
+A simple code, adding the ability to search and highlight any word in any text. (reminiscent of CTRL+F ability in browsers)
 
-![stopwatch-Demo](Demo/2022-01-30 18.17.55.gif)
+[Live Demo](https://kamyar-mazloom.github.io/Ctrl-f-search/) :point_left:
+
+![CTRL+F-Demo](Demo/Search.gif)
 
